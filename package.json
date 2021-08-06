@@ -1,0 +1,20 @@
+{
+  "name": "dens-mongodb-register",
+  "version": "1.0.0",
+  "description": "mongodb li temiz kayıt altyapısı",
+  "main": "index.js",
+  "keywords": [
+    "mongodb",
+    "kayıt",
+    "kayit",
+    "register",
+    "mongodb register"
+  ],
+  "author": "Dens#8231",
+  "license": "MIT",
+  "dependencies": {
+    "discord.js": "^12.5.1",
+    "fs": "0.0.2",
+    "mongoose": "^5.13.5"
+  }
+}
